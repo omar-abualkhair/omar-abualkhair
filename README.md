@@ -11,6 +11,9 @@ Currently in the **DEPI Data Analysis track**, after completing **NTI** data ana
 | Project | What it shows |
 |---|---|
 | [**Global Development World Metrics**](https://github.com/omar-abualkhair/global-development-dashboard-powerbi) | 9-page Power BI report on 231 countries: full cleaning in Power Query M, 8-table model, 35 DAX measures, insights and recommendations |
+| [**Nova Retail Sales Dashboard**](https://github.com/omar-abualkhair/nova-retail-excel-dashboard) | Excel dashboard on 9,994 U.S. retail orders: Power Query, Power Pivot Data Model, PivotCharts and a fixed date-parsing bug |
+| [**HR Analytics Dashboard**](https://github.com/omar-abualkhair/hr-analytics-powerbi) | Power BI: where should HR act first? Satisfaction gaps, sick leave and hiring trends, with prioritized recommendations |
+| [**EduLearn Course Performance**](https://github.com/omar-abualkhair/edulearn-course-analytics-powerbi) | Power BI star schema: revenue vs target, matured completion rate and instructor flags |
 | [**Power Query M Cleaning Library**](https://github.com/omar-abualkhair/power-query-m-cleaning-library) | Reusable M functions for loading and cleaning raw CSV files in Power BI and Excel |
 
 ### Tools
@@ -23,4 +26,4 @@ Currently in the **DEPI Data Analysis track**, after completing **NTI** data ana
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/omar-abualkhair) · Open to Data Analyst / BI Analyst roles in Cairo or remote
+[LinkedIn](https://www.linkedin.com/in/omar-abualkhair) · [Portfolio](https://omar-abualkhair.github.io) · Open to Data Analyst / BI Analyst roles in Cairo or remote
