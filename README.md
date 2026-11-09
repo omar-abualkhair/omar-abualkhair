@@ -14,6 +14,7 @@ Currently in the **DEPI Data Analysis track**, after completing **NTI** data ana
 | [**Nova Retail Sales Dashboard**](https://github.com/omar-abualkhair/nova-retail-excel-dashboard) | Excel dashboard on 9,994 U.S. retail orders: Power Query, Power Pivot Data Model, PivotCharts and a fixed date-parsing bug |
 | [**HR Analytics Dashboard**](https://github.com/omar-abualkhair/hr-analytics-powerbi) | Power BI: where should HR act first? Satisfaction gaps, sick leave and hiring trends, with prioritized recommendations |
 | [**EduLearn Course Performance**](https://github.com/omar-abualkhair/edulearn-course-analytics-powerbi) | Power BI star schema: revenue vs target, matured completion rate and instructor flags |
+| [**BikeX Sales Dashboard**](https://github.com/omar-abualkhair/bikex-sales-dashboard-powerbi) | Power BI: 3 years of sales appended in Power Query into a star schema; revenue by product, channel, region and sales rep |
 | [**Power Query M Cleaning Library**](https://github.com/omar-abualkhair/power-query-m-cleaning-library) | Reusable M functions for loading and cleaning raw CSV files in Power BI and Excel |
 
 ### Tools
